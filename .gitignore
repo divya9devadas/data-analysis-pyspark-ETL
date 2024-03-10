@@ -159,3 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 .DS_Store
+datasets/command_kakka.text
+src/kf-consumer.py
+src/kf-producer.py
