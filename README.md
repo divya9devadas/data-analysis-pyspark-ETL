@@ -37,9 +37,8 @@ These analysis highlights aim to provide a comprehensive overview of key metrics
 ### Results and Visualisations
 The project generates visualisations using matplotlib and seaborn, showcasing key insights such as payment type preferences, busiest hours, locations, and more.
 
+---
 
- 
- 
 ## 2. amazon-sales-data
 
 ### Data Source
