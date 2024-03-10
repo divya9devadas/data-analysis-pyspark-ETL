@@ -1,4 +1,7 @@
-# ny-yellow-taxi-dataset-analysis-2023-pyspark
+# data-analysis-ETL
+In this repository, you'll find analyses of both yellow taxi data and Amazon sales data.
+
+## 1. ny_yellow_taxi_dataset_2023
 
 ### Data Source
 The New York taxi data for the year 2023 is sourced from monthly Parquet files, each containing yellow taxi trip records.
@@ -35,8 +38,8 @@ These analysis highlights aim to provide a comprehensive overview of key metrics
 The project generates visualisations using matplotlib and seaborn, showcasing key insights such as payment type preferences, busiest hours, locations, and more.
 
 
-----------------------------------------------------------------------------------
-# amazon-sales-data-analysis-pySpark
+# --------------------------------------------------------------------------------
+# 2. amazon-sales-data
 
 ### Data Source
 The Amazon sales data used in this project is sourced from a CSV file, which can be found in the datasets/ directory. The dataset includes information about various products, such as product ID, name, category, pricing details, ratings, reviews, and more.
