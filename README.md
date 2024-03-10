@@ -38,8 +38,9 @@ These analysis highlights aim to provide a comprehensive overview of key metrics
 The project generates visualisations using matplotlib and seaborn, showcasing key insights such as payment type preferences, busiest hours, locations, and more.
 
 
-# --------------------------------------------------------------------------------
-# 2. amazon-sales-data
+ 
+ 
+## 2. amazon-sales-data
 
 ### Data Source
 The Amazon sales data used in this project is sourced from a CSV file, which can be found in the datasets/ directory. The dataset includes information about various products, such as product ID, name, category, pricing details, ratings, reviews, and more.
